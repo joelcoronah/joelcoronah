@@ -10,7 +10,7 @@
 - 🤖 I use AI-assisted development tools such as Claude Code and Cursor across planning, implementation, and code review.
 - 🎓 Telecommunications Engineering degree, University of Carabobo (2025).
 - 📫 Reach me at **[joelcoronah@gmail.com](mailto:joelcoronah@gmail.com)**.
-- 🌐 Based in Valencia, Venezuela; experienced working remotely with teams across Latin America.
+- 🌐 Experienced working remotely with teams across Latin America.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
